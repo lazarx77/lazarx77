@@ -29,6 +29,8 @@ In addition to programming, I am also passionate about music. I compose music, w
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lazarx77" alt="GitHub Streak" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazarx77)](https://git.io/streak-stats)
 
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lazarx77/lazarx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
