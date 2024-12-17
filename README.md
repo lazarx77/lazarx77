@@ -31,8 +31,7 @@ In addition to programming, I am also passionate about music. I compose music, w
 ## TOP Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)]
 
-## Github Stats
-[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarx77)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=lazarx77)
 
 <!--
 **lazarx77/lazarx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
