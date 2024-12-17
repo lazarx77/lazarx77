@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2336BCF7&center=true&vCenter=true&random=true&width=435&lines=Java+developer)](https://git.io/typing-svg) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Java+developer)](https://git.io/typing-svg)
 ## 👋
 
-### About myself
+### About me
 Java Core, Spring, Spring Boot, Hibernate, Maven, SQL, Databases, PostgreSQL, H2, Postman, Data Structures, Algorithms, JUnit Testing, Mock Testing, Git, GitHub, Docker, IntelliJ IDEA.
 
 I have been interested in software development for many years and took my first steps in this direction back in college in 2003 when we were taught a course on Visual Basic. I always tried to do more than what was given to us. I found programming more interesting than my main field of study. Nevertheless, I graduated with a degree in "Energy Machine Engineering" and then started working, although not in my specialty.
