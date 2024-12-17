@@ -31,7 +31,7 @@ In addition to programming, I am also passionate about music. I compose music, w
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazarx77)](https://git.io/streak-stats)
 
 ## TOP Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)
 
 
 <!--
