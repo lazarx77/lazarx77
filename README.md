@@ -33,6 +33,8 @@ In addition to programming, I am also passionate about music. I compose music, w
 
 ![](https://komarev.com/ghpvc/?username=lazarx77)
 
+[![Olegs's github activity graph](https://activity-graph.herokuapp.com/graph?username=lazarx77)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **lazarx77/lazarx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
