@@ -22,6 +22,8 @@ I regularly attend conferences in my city dedicated to development, where I meet
 
 In addition to programming, I am also passionate about music. I compose music, which is also a form of programming. Based on my music, a good friend of mine staged a play that has been running in Kaliningrad for several seasons. I have collaborated with various musicians so many times that I can no longer count them—I can be found on all streaming platforms as Oleg Lazarenko.
 
+- 📫 How to reach me: https:/t.me/lazarx7
+
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=lazarx77)](https://github.comlazarx77/github-profile-trophy)
 
@@ -31,7 +33,6 @@ In addition to programming, I am also passionate about music. I compose music, w
 ## TOP Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)]
 
-[![Olegs's github activity graph](https://activity-graph.herokuapp.com/graph?username=lazarx77)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **lazarx77/lazarx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
