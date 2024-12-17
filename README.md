@@ -31,8 +31,6 @@ In addition to programming, I am also passionate about music. I compose music, w
 ## TOP Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarx77&layout=compact)]
 
-![](https://komarev.com/ghpvc/?username=lazarx77)
-
 [![Olegs's github activity graph](https://activity-graph.herokuapp.com/graph?username=lazarx77)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
