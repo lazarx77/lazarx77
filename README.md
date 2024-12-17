@@ -25,6 +25,9 @@ In addition to programming, I am also passionate about music. I compose music, w
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=lazarx77)](https://github.comlazarx77/github-profile-trophy)
 
+## Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazarx77)](https://git.io/streak-stats) 
+
 
 <!--
 **lazarx77/lazarx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
