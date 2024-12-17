@@ -26,7 +26,7 @@ In addition to programming, I am also passionate about music. I compose music, w
 [![trophy](https://github-profile-trophy.vercel.app/?username=lazarx77)](https://github.comlazarx77/github-profile-trophy)
 
 ## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazarx77)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazarx77)](https://git.io/streak-stats)
 
 
 <!--
