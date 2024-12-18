@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Oleg</a> 
+<h1 align="center">Hi there, I'm Oleg</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="center">Привет, я Олег!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Говорю по-русски и английски / I speak Russian and English</h3>
